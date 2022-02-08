@@ -1,0 +1,3 @@
+km=int(input ('enter km'))
+Cm=km * 100000
+Print (cm)
